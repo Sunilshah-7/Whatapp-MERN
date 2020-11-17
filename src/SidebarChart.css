@@ -1,0 +1,16 @@
+.sidebarChart {
+  display: flex;
+  padding: 20px;
+  cursor: pointer;
+  border-bottom: 1px solid #f6f6f6;
+}
+.sidebarChart:hover {
+  background-color: #ebebeb;
+}
+.sidebarChart_info > h2 {
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+.sidebarChart_info {
+  margin-left: 15px;
+}
